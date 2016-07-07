@@ -1,0 +1,13 @@
+
+prd,prod	qm		hostgator.qmonkey.co.uk	
+rmq1,rmq	qm		rmq1				GCLOUD=top-athlete-87816:us-east1-b
+lemp		qm		lemp-pnyc			GCLOUD=top-athlete-87816:us-east1-b
+gitter		qm		git   				GCLOUD=top-athlete-87816:europe-west1-d
+core01		core	core01				GCLOUD=coretest-1187:europe-west1-d
+vox			qm		vox.qmonkey.co.uk
+twig,pi		qm		twig.qmonkey.co.uk
+vag			vagrant	192.168.1.222
+vcore		core	192.168.1.201
+homer,nginx	qm    192.168.1.199
+
+# vi:syntax=sh 

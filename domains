@@ -1,0 +1,22 @@
+#
+# List of domains and expected functions
+#
+
+https	qmonkey.co.uk                homer
+http	qmonkey.co.uk                
+ssh		qmonkey.co.uk                hostgator twig
+
+http	thruniverse.com              www
+http	thruniverse.co.uk            www
+http	yopp.co.uk
+http	invisiblefriend.org.uk
+
+http	gusgrenfell.co.uk            www
+http	joanlingard.com              ww
+http	joanlingard.co.uk            www
+http	linlithgowpicturehouse.co.uk www
+http	linlithgowscoutpost.org.uk
+http	livingstoncrafts.co.uk
+http	psoriasisscotland.org.uk
+http	psoriasisscotlandpatientportal.org.uk
+http	pushkinprizes.net            www
